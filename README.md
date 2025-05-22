@@ -1,3 +1,5 @@
+### This project is postponed. Sorry for the inconvenience.
+
 # Rust Svelte MySQL CRUD Application
 
 A full-stack CRUD application built with:
